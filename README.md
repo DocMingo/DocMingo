@@ -1,21 +1,27 @@
 <h1 align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=嗨👋，我是+DocMingo;专业混沌架构师;3D视觉+算法工程师;咖啡因驱动开发" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=400&lines=嗨👋，我是+DocMingo%0A3D视觉算法工程师" alt="Typing SVG" />
   </a>
 </h1>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/DocMingo?tab=repositories">
-    <img alt="代码习惯" src="https://img.shields.io/badge/Editor-VS_Code-informational?logo=visualstudiocode&logoColor=white&color=2bbc8a">
+    <img alt="VS Code" 
+         src="https://img.shields.io/badge/Editor-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat">
   </a>
-  <a href="https://github.com/DocMingo">
+  <a href="https://github.com/DocMingo?tab=repositories">
+    <img alt="Visual Studio" 
+         src="https://img.shields.io/badge/IDE-Visual_Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat">
+  </a>
+    <a href="https://github.com/DocMingo">
     <img alt="GitHub Hits" src="https://img.shields.io/github/followers/DocMingo?label=Follow%20%40DocMingo&style=social">
   </a>
 </p>
 
+
 <!-- 3D技术栈徽章 -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-LiDAR%20渲染-8A2BE2?logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/-LiDAR点云%20渲染-8A2BE2?logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/-3DGS-FF8C00?logo=blender&logoColor=white">
   <img src="https://img.shields.io/badge/-PCL-00BFFF?logo=pointcloud&logoColor=white">
 </p>
@@ -37,44 +43,61 @@
   </a>
 </p>
 
-<!-- 技术栈图标云 -->
 <h3 align="center">🛠 技术栈</h3>
 <p align="center">
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
-  </a>
-  <a href="https://isocpp.org" target="_blank">
-    <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" alt="C++">
-  </a>
-  <!-- 更多技术徽章... -->
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white" title="C++" hspace="4">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" title="Python" hspace="4">
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" title="PyTorch" hspace="4">
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white" title="OpenCV" hspace="4">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" title="Docker" hspace="4">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" title="Linux" hspace="4">
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" title="Git" hspace="4">
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" title="PostgreSQL" hspace="4">
 </p>
+
+
+<h3 align="center">🚀 开发规划</h3>
 
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/></td>
-      <td><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" title="Django"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" title="Flask"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" title="Docker"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" title="OpenCV"/></td>
+      <td><img src="https://img.shields.io/badge/■_HyperCloud_Engine-000000?style=for-the-badge&logo=point-cloud&logoColor=00FFFF" width="300"></td>
+      <td>
+        <ul align="left">
+          <li>⏳ 实时LiDAR点云处理</li>
+          <li>🧊 体素化压缩算法 (CR > 10:1)</li>
+          <li>⚡ cuda加速可视化</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" title="PyTorch"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" title="TensorFlow"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" title="Linux"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" title="PostgreSQL"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/></td>
+      <td><img src="https://img.shields.io/badge/■_Neural_GS_Renderer-000000?style=for-the-badge&logo=matrix&logoColor=FF00FF" width="300"></td>
+      <td>
+        <ul align="left">
+          <li>🧠 可微分3D高斯喷射</li>
+          <li>🌌 神经辐射场混合架构</li>
+          <li>🔄 高性能实时渲染</li>
+        </ul>
+      </td>
     </tr>
   </table>
 </div>
 
-<!-- 动态分割线 -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg">
-
-<h3 align="center">📊 本周开发数据</h3>
-<!-- Wakatime 统计 -->
+<h4 align="center">▍技术指标 | Tech Specs</h4>
 <p align="center">
-  <a href="https://wakatime.com/@DocMingo">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DocMingo&theme=radical&layout=compact" alt="Wakatime Stats">
-  </a>
+  <img src="https://img.shields.io/badge/Compute_Units-256_CUDA_Cores-blueviolet">  
+  <img src="https://img.shields.io/badge/Precision-FP16_Accel-9cf">
+  <img src="https://img.shields.io/badge/Latency-<2ms-success">
 </p>
+
+<details>
+<summary><b>🛰️ 底层架构 | Core Architecture</b></summary>
+
+```mermaid
+graph LR
+  A[LiDAR Raw Data] --> B[Octree Spatial Partition]
+  B --> C[Neural Voxelization]
+  C --> D{Hybrid Render Pipeline}
+  D --> E[PointCloud Render]
+  D --> F[Gaussian Splatting]
+  D --> G[NeRF Synthesis]
