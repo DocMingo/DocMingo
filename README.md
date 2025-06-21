@@ -26,7 +26,11 @@
   <img src="https://img.shields.io/badge/-PCL-00BFFF?logo=pointcloud&logoColor=white">
 </p>
 
-<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" style="display:block; margin:auto;" />
+<p align="center">
+  <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+</p>
+
+
 
 
 <!-- 双卡片统计布局 -->
