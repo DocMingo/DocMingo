@@ -26,12 +26,7 @@
   <img src="https://img.shields.io/badge/-PCL-00BFFF?logo=pointcloud&logoColor=white">
 </p>
 
-<!-- 奖杯墙（带阴影效果） -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DocMingo&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15" alt="DocMingo's trophies" />
-  </a>
-</div>
+<img align="right" width="500" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 <!-- 双卡片统计布局 -->
 <p align="center">
