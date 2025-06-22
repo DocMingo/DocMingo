@@ -26,12 +26,10 @@
   <img src="https://img.shields.io/badge/-PCL-00BFFF?logo=pointcloud&logoColor=white">
 </p>
 
+
 <p align="center">
-  <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFuZzB2ZWJ1Y2U0bGt6cHM1dzh5MHVxNHEwdTc2ZHVscjQ3eXdldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FylQRlWk1dr8aHhdWH/giphy.gif" width="300" />
 </p>
-
-
-
 
 <!-- 双卡片统计布局 -->
 <p align="center">
