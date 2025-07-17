@@ -47,11 +47,13 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" title="Python" hspace="4">
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" title="PyTorch" hspace="4">
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white" title="OpenCV" hspace="4">
+  <img src="https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=white" title="OpenGL" hspace="4">
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" title="Docker" hspace="4">
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" title="Linux" hspace="4">
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" title="Git" hspace="4">
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" title="PostgreSQL" hspace="4">
 </p>
+
 
 
 <h3 align="center">🚀 开发规划</h3>
